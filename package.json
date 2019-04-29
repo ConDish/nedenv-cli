@@ -1,0 +1,28 @@
+{
+  "name": "@nedenv/nedenv-cli",
+  "version": "1.0.0",
+  "description": "NEDENV CLI",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "nedenv-cli": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConDish/nedenv-cli.git"
+  },
+  "keywords": [
+    "nedenv-cli"
+  ],
+  "author": "Wolves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConDish/nedenv-cli/issues"
+  },
+  "homepage": "https://github.com/ConDish/nedenv-cli#readme"
+}
